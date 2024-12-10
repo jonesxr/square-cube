@@ -31,8 +31,5 @@
     <Text Include="makefile.txt">
       <Filter>Source Files</Filter>
     </Text>
-    <Text Include=".gitignore.txt">
-      <Filter>Source Files</Filter>
-    </Text>
   </ItemGroup>
 </Project>
